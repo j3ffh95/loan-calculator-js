@@ -2,7 +2,7 @@
 A Loan Calculator app app created as part of the "Modern JavaScript from the Begining" Udemy course by the awesome Brad Traversy.
 
 ## Built With
-- HTMl
+- HTML
 - CSS
 - BootStrap
 - JavaScript
